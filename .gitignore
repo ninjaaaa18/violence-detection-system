@@ -1,8 +1,12 @@
-.idea/
-.ipynb_checkpoints/*
-archive/
 venv/
 .venv/
+archive/
 __pycache__/
 *.pyc
-git_status.txt
+*.pyo
+*.pyd
+
+.vscode/
+
+dataset/
+results/
